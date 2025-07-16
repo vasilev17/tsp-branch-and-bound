@@ -4,8 +4,7 @@
 
 <p>A High-Performance C++ Toolkit that finds optimal tours for classic <a href="https://en.wikipedia.org/wiki/Travelling_salesman_problem" target="_blank">Travelling Salesman Problem (TSP)</a> instances.</br>
 The project contains parallelized <a href="https://en.wikipedia.org/wiki/Branch_and_bound" target="_blank">Branch-And-Bound (B&B)</a> implementations,
-tested on <a href="https://www.grid5000.fr/w/Grid5000:Home" target="_blank">Grid5000's</a> <b><i>multi-core</b></i> and <b><i>multi-node</b></i> architectures,</br>
-as well as parallelized implementations of <a href="https://www.math.uwaterloo.ca/tsp/concorde.html" target="_blank">Concorde TSP Solver</a>.</p>
+tested on <a href="https://www.grid5000.fr/w/Grid5000:Home" target="_blank">Grid5000's</a> <b><i>multi-core</b></i> and <b><i>multi-node</b></i> architectures, as well as parallelized implementations of <a href="https://www.math.uwaterloo.ca/tsp/concorde.html" target="_blank">Concorde TSP Solver</a>.</p>
 
 <div>
   <img src="https://img.shields.io/badge/Solo-Project-gray?logo=codecrafters&labelColor=cyan&logoColor=%23323232" style="height: 30px; width: auto;">
