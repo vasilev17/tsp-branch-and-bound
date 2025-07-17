@@ -46,8 +46,14 @@ This toolkit aims to find exact solutions to [tsplib](https://github.com/mastqe/
 ---
 
 ## 🎬 Showcase
-For detailed test run results, visualizations, and in-depth information about the problem and implemented solutions, please visit:
 
+### Branch & Bound Algo Visualization
+https://github.com/user-attachments/assets/79d384e0-c3ec-4b01-bed7-b678f6132170
+
+### Concorde Visualization
+<img width="450" height="auto" alt="Concorde Showcase" src="https://github.com/user-attachments/assets/350aba36-8ce7-4249-96ca-d84a1c7025ae" />
+  
+### For detailed test run results, visualizations, and in-depth information about the problem and implemented solutions, please visit:
 <a href="https://shorturl.at/mUccA" target="_blank">
     <img src="https://img.shields.io/badge/Presentation%20-%20red?logo=niconico" style="height: 35px; width: auto;">
 </a>
